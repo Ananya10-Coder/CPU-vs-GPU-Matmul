@@ -69,5 +69,5 @@ This indicates that the GPU implementation is significantly faster than the CPU 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT License.
 
